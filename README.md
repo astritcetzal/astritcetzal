@@ -77,7 +77,12 @@
 ## Certificados
 <div align="center">
 <br>
+  <a href="https://www.credly.com/badges/29fc5a59-73f5-4292-b0f8-4e5d5c357dc4" target="_blank"><img src="images/python.png" width="170" alt="Cloud Operations"></a>
+  <a href="https://www.credly.com/badges/e82f00e7-c851-4252-8997-20d61b4dc648/linked_in_profile" target="_blank"><img src="images/network.png" width="170" alt="Cloud Operations"></a>
+  <a href="https://www.credly.com/badges/5a2a04ca-02d1-4775-bdea-fc37728e8444/linked_in_profile" target="_blank"><img src="images/foundations.png" width="170" alt="Cloud Operations"></a>
 <a href="https://www.credly.com/badges/edd0ef13-9af6-4fbb-836f-0c40a672dfb5/public_url" target="_blank"><img src="images/operations.png" width="170" alt="Cloud Operations"></a>
+  <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bed3c443794056354c41ee45a212ef18f5f37f13?utm_medium=organic_social&utm_campaign=sharewidget&utm_content=soa" target="_blank"><img src="images/sql-fundamentals.png" width="170" alt=SQL"></a>
+  
 </div>
 
 
