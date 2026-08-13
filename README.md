@@ -77,6 +77,7 @@
 ## Certificados
 <div align="center">
 <br>
+   <a href="https://www.coursera.org/account/accomplishments/specialization/PEU9LH3NLMM8" target="_blank"><img src="images/it.png" width="170" alt="Cloud IT"></a>
   <a href="https://www.credly.com/badges/29fc5a59-73f5-4292-b0f8-4e5d5c357dc4" target="_blank"><img src="images/python.png" width="170" alt="Cloud Operations"></a>
   <a href="https://www.credly.com/badges/e82f00e7-c851-4252-8997-20d61b4dc648/linked_in_profile" target="_blank"><img src="images/network.png" width="170" alt="Cloud Operations"></a>
   <a href="https://www.credly.com/badges/5a2a04ca-02d1-4775-bdea-fc37728e8444/linked_in_profile" target="_blank"><img src="images/foundations.png" width="170" alt="Cloud Operations"></a>
