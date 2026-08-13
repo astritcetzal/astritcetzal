@@ -4,8 +4,8 @@
   
   <br><br>
   <h1>¡Hola, soy Astrit! 🌌💜</h1>
-  <p><i>"Transformando café, música y buena lógica en código limpio"</i></p>
-  <p>Desarrolladora de Software | Impulsando la presencia de mujeres en STEM</p>
+  
+  <p>Desarrolladora backend y cloud | Impulsando la presencia de mujeres en STEM</p>
 </div>
 
 <br>
@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="60%">
-       <b>Mi Enfoque:</b> Desarrollo backend y arquitectura de software. Disfruto aplicar patrones como Arquitectura Limpia, DDD y el modelo C4 para diseñar sistemas robustos.<br><br>
+       <b>Mi Enfoque:</b> Desarrollo backend, arquitectura de software y cloud. Disfruto aplicar patrones como Arquitectura Limpia, DDD y el modelo C4 para diseñar sistemas robustos.<br><br>
        <b>Formación:</b> Estudiante de <i>Desarrollo de Software e Innovación</i>.<br><br>
        <b>Logros Recientes:</b> 1er lugar en el hackathon <i>Invent for the Planet</i><br><br>
       <b>Filosofía:</b> Escribir código que no solo funcione a la perfección, sino que sea escalable, mantenible y hermoso por dentro.
@@ -30,7 +30,7 @@
 
 <br>
 
-### 🌌 Tecnologías implementadas en mis proyectos 
+### Tecnologías implementadas en mis proyectos 
 <div align="center">
   <p><b> Lenguajes</b></p>
   <img src="https://img.shields.io/badge/C%23-2B0B3F?style=for-the-badge&logo=c-sharp&logoColor=E6D9FA" alt="C#" />
@@ -67,12 +67,19 @@
 
 <br>
 
-### 🚀 Proyectos en mi Órbita
+### Proyectos en mi Órbita
 *   **Magic Library:** Uniendo mis dos pasiones (código y libros). Desarrollé este sistema modular automatizando flujos de CI con **GitHub Actions** y pruebas bajo **xUnit**.
 *   **Citas App:** Backend construido en **ASP.NET Core**. Aquí diseñé una sólida estructura de autenticación basada en roles para gestionar el acceso seguro de usuarios.
 *   **API Restaurante:** Modelado desde cero. Incluye el esquema relacional ERD y scripts transaccionales en **PostgreSQL** para manejar la operativa completa de un restaurante.
 
 <br>
+
+## Certificados
+<div align="center">
+<br>
+<a href="https://www.credly.com/badges/edd0ef13-9af6-4fbb-836f-0c40a672dfb5/public_url" target="_blank"><img src="images/operations" width="170" alt="Cloud Operations"></a>
+</div>
+
 
 ###  Mi Ritmo en Código
 <div align="center">
@@ -81,6 +88,8 @@
 </div>
 
 <br>
+
+
 
 <div align="center">
   <i>"Donde las ideas brillan en la oscuridad" ✨💜</i>
