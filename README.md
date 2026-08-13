@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="tu_animacion.gif" width="180" alt="Animación de Astrit" />
+  <!-- Aquí va tu banner del universo en movimiento -->
+  <img src="universo.gif" width="100%" alt="Fondo animado del universo y constelaciones" />
+  
+  <br><br>
   <h1>¡Hola, soy Astrit! 🌌💜</h1>
   <p><i>"Transformando café, música y buena lógica en código limpio"</i></p>
   <p>Desarrolladora de Software | Impulsando la presencia de mujeres en STEM</p>
@@ -19,7 +22,7 @@
     <td width="40%">
       <b>Mi ecosistema personal:</b><br><br>
       <b>Música:</b> Mi playlist nunca se detiene mientras programo. Encuentro inspiración en melodías que me transportan a mi propio "microcosmos".<br><br>
-      <b>Lectura:</b> Devoradora de libros. Me gusta tanto que construí mi propio sistema de software para organizar mis lecturas.<br><br>
+      <b>Lectura:</b> Me gustan los libros. Me gusta tanto que construí mi propio sistema de software para organizar mis lecturas.<br><br>
       <b>Mi esencia:</b> Si mi código tuviera un color, definitivamente sería una paleta de morados.
     </td>
   </tr>
