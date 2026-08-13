@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Aquí va tu banner del universo en movimiento -->
-  <img src="universo.png" width="90%" height="10%"  alt="Fondo animado del universo y constelaciones" />
+  <img src="universo.jpg" width="70%" height="10%"  alt="Fondo animado del universo y constelaciones" />
   
   <br><br>
   <h1>¡Hola, soy Astrit! 🌌💜</h1>
