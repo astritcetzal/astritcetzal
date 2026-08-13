@@ -77,7 +77,7 @@
 ## Certificados
 <div align="center">
 <br>
-<a href="https://www.credly.com/badges/edd0ef13-9af6-4fbb-836f-0c40a672dfb5/public_url" target="_blank"><img src="images/operations" width="170" alt="Cloud Operations"></a>
+<a href="https://www.credly.com/badges/edd0ef13-9af6-4fbb-836f-0c40a672dfb5/public_url" target="_blank"><img src="images/operations.png" width="170" alt="Cloud Operations"></a>
 </div>
 
 
